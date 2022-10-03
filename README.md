@@ -14,3 +14,4 @@
 
 - [Hubbard Labs](https://hubbardlabs.com)
 - [Hubbard Labs - Github](https://github.com/hubbardlabs)
+- [Hubbard Labs - WordPress](https://profiles.wordpress.org/hubbardlabs/)
