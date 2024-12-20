@@ -10,7 +10,7 @@
 - [@bkhubbard](https://www.behance.net/bkhubbard) on Behance
 - [@bhubbard](https://g.dev/bhubbard) on Google Developers
 - [@bhubbard](https://codepen.io/bhubbard) on Codepen
-- [@bhubbard](ttps://www.npmjs.com/~bhubbard) on NPM
+- [@bhubbard](https://www.npmjs.com/~bhubbard) on NPM
 
 
 ### Freelance
