@@ -14,7 +14,7 @@
 <a href="https://links.brandonhubbard.com/codepen"><img alt="Brandon Hubbard - CodePen" align="center" src="https://img.shields.io/badge/CODEPEN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>
 <a href="https://links.brandonhubbard.com/wordpress"><img alt="Brandon Hubbard - WordPress" align="center" src="https://img.shields.io/badge/WORDPRESS-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>
 <a href="https://links.brandonhubbard.com/npm"><img alt="Brandon Hubbard - NPM" align="center" src="https://img.shields.io/badge/NPM-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>
-<a href="https://links.brandonhubbard.com/gdev"><img alt="Brandon Hubbard - Google Developers" align="center" src="https://img.shields.io/badge/GOOGLE-EVELOPERS-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>
+<a href="https://links.brandonhubbard.com/gdev"><img alt="Brandon Hubbard - Google Developers" align="center" src="https://img.shields.io/badge/GOOGLEDEVELOPERS-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" /></a>
 </p>
 
 
